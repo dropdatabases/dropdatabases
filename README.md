@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=dropdatabases&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=dropdatabases&show_icons=true&title_color=00ffff&text_color=33ff33&bg_color=333333&icon_color=ffff4d" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 ### I'm dropdatabases
 
@@ -8,5 +8,3 @@
 - 💬 Ask me if you want to get any suggest by PHP or Golang develop things
 **Stats**
 ![fdciabdul github stats](https://github-readme-stats.vercel.app/api?username=dropdatabases&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-<img src="https://github-readme-stats.vercel.app/api?username=singh08prashant&show_icons=true&title_color=00ffff&text_color=33ff33&bg_color=333333&icon_color=ffff4d")
